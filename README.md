@@ -35,18 +35,16 @@ Kullanıcı, örümceğin ihtiyaçlarını karşılamak için aşağıdaki seçe
 Her bir ihtiyaç için farklı aktiviteler sunulmaktadır. Aşağıda her bir aktivitenin açıklamaları bulunmaktadır:
 
 ### 1. Yemek Seçenekleri
-- **Çekirge**: Çekirge yiyerek tokluk seviyesi artırılır.
-- **Karınca**: Karınca yiyerek tokluk seviyesi artırılır.
-- **Solucan**: Solucan yiyerek tokluk seviyesi artırılır.
+Örümcek, seçilen besinle beslenerek tokluk seviyesi arttırılır.
 
 ### 2. Uyku
-Örümcek, belirli bir süre uyuyarak uyku seviyesi artırılır.
+Örümcek, belirli bir süre uyuyarak uyku seviyesi arttırılır.
 
 ### 3. Sevgi Göster
 Örümcek, ailesinden farklı bireylerle sarılır.
 
 ### 4. Sosyalleşme
-Örümcek, arkadaşlarıyla farklı aktiviteler yaparak sosyallik seviyesini artırır.
+Örümcek, arkadaşlarıyla farklı aktiviteler yaparak sosyallik seviyesini arttırır.
 
 ### 5. Sağlık Durumu Kontrolü
 Örümceğin sağlık durumu kontrol edilir. Tokluk ve boşaltım seviyeleri sıfırsa, örümcek ölecek ve yeniden canlandırılacaktır.
@@ -61,7 +59,7 @@ Her bir ihtiyaç için farklı aktiviteler sunulmaktadır. Aşağıda her bir ak
 Örümcek, tuvalet ihtiyacını giderir.
 
 ### 9. Eğlence
-Örümcek, eğlenceli aktiviteler yaparak stresini atar ve eğlence seviyesini artırır.
+Örümcek, eğlenceli aktiviteler yaparak stresini atar ve eğlence seviyesini arttırır.
 
 ## Program Akışı
 
