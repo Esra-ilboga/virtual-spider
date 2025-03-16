@@ -95,3 +95,4 @@ Uygulama, her bir aktivitenin ardından kullanıcıya örümceğin güncel durum
 
 ## Örnek Çıktı
 
+ ![Oyun Görüntüsü 1](orumcek.png) 
